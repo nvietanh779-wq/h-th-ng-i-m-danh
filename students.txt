@@ -1,0 +1,190 @@
+202410423|Nguyen Hoang Long|Khoa hoc May tinh
+202482391|Tran Thi Mai|Ky thuat Phan mem
+202455102|Le Minh Quan|He thong Thong tin
+202434195|Pham Thanh Thao|An toan Thong tin
+202467182|Vu Hoang Anh|Cong nghe Thong tin
+202492104|Hoang Duc Thang|Khoa hoc May tinh
+202441923|Nguyen Thu Ha|Ky thuat Phan mem
+202473812|Phan Van Duc|He thong Thong tin
+202412948|Dang Minh Tuyet|Kinh te Cong nghiep
+202484732|Bui Quoc Khanh|Quan tri Kinh doanh
+202429481|Do Manh Hung|Ky thuat Dien tu
+202475819|Ngo Thi Diem|Ky thuat Dieu khien
+202418492|Trinh Xuan Bach|Ky thuat Phan mem
+202464739|Ly Bao Ngoc|Cong nghe Thong tin
+202495810|Duong Van Nam|Khoa hoc May tinh
+202423849|Dinh Thuy Linh|An toan Thong tin
+202474829|Lam Ngoc Hai|He thong Thong tin
+202419482|Phung Tien Dung|Ky thuat Phan mem
+202485739|Vo Thi Huong|Kinh te Cong nghiep
+202439482|Tang Minh Tri|Cong nghe Thong tin
+202461948|Mai Phuong Thao|He thong Thong tin
+202482941|Cao Van Cuong|Ky thuat Phan mem
+202451948|Luong Thu Trang|Khoa hoc May tinh
+202438492|Quach Gia Bao|An toan Thong tin
+202471948|Ha Minh Triet|Cong nghe Thong tin
+202414920|Diep Khanh Linh|Kinh te Cong nghiep
+202481948|Trieu Van Dong|Ky thuat Dien tu
+202449281|Vi Thi Hoa|He thong Thong tin
+202491823|Ta Hoang Minh|Ky thuat Phan mem
+202431948|Nong Duc Manh|An toan Thong tin
+202472948|Phan Khanh Van|Khoa hoc May tinh
+202412849|Le Gia Huy|Ky thuat Phan mem
+202481958|Nguyen Duc Huy|He thong Thong tin
+202441958|Tran Minh Hoang|Cong nghe Thong tin
+202491283|Pham Ngoc Mai|Kinh te Cong nghiep
+202421948|Vu Duc Thien|Quan tri Kinh doanh
+202461823|Hoang Thanh Truc|Ky thuat Dien tu
+202413948|Nguyen Viet Linh|Ky thuat Dieu khien
+202485918|Phan Phung Hiep|Ky thuat Phan mem
+202424918|Dang Van Lam|Cong nghe Thong tin
+202461293|Bui Thi Thuong|Khoa hoc May tinh
+202495182|Do Tuan Tu|An toan Thong tin
+202415948|Ngo Bao Lam|He thong Thong tin
+202471283|Trinh Thu Hien|Ky thuat Phan mem
+202434918|Ly Quang Dieu|Kinh te Cong nghiep
+202481293|Duong Khanh Toan|Cong nghe Thong tin
+202451293|Dinh Bao Chau|He thong Thong tin
+202425918|Lam Gia Khanh|Ky thuat Phan mem
+202494918|Phung Xuan Truong|Khoa hoc May tinh
+202431293|Vo Hoang Long|An toan Thong tin
+202475918|Tang My Tam|Cong nghe Thong tin
+202411293|Mai Quoc Viet|He thong Thong tin
+202484918|Cao Ngoc Son|Ky thuat Phan mem
+202441293|Luong Huu Phuoc|Khoa hoc May tinh
+202495918|Quach Ba Tung|An toan Thong tin
+202435918|Ha Kieu Anh|Cong nghe Thong tin
+202471294|Diep Hoang Yen|Kinh te Cong nghiep
+202414919|Trieu Tien Dat|Ky thuat Dien tu
+202481294|Vi Hoang Nam|He thong Thong tin
+202454918|Ta Dinh Phong|Ky thuat Phan mem
+202421294|Nong Thuy Duong|An toan Thong tin
+202465918|Phan Minh Chien|Khoa hoc May tinh
+202411294|Le Van Luyen|Ky thuat Phan mem
+202484919|Nguyen Mai Chi|He thong Thong tin
+202445918|Tran Quoc Quan|Cong nghe Thong tin
+202491294|Pham Dieu Thuy|Kinh te Cong nghiep
+202431294|Vu Hong Nhung|Quan tri Kinh doanh
+202475919|Hoang Trung Kien|Ky thuat Dien tu
+202415918|Nguyen Bao Ngoc|Ky thuat Dieu khien
+202481295|Phan Duc Anh|Ky thuat Phan mem
+202451294|Dang Thuy Tien|Cong nghe Thong tin
+202425919|Bui Hoang Duong|Khoa hoc May tinh
+202461295|Do Khanh Ly|An toan Thong tin
+202414921|Ngo Tuan Khang|He thong Thong tin
+202485919|Trinh Gia Hung|Ky thuat Phan mem
+202441295|Ly Thi Na|Kinh te Cong nghiep
+202491295|Duong Van Quyet|Cong nghe Thong tin
+202435919|Dinh Van Thang|He thong Thong tin
+202471295|Lam Tue Man|Ky thuat Phan mem
+202411295|Phung Manh Tuong|Khoa hoc May tinh
+202484920|Vo Thi Cam|An toan Thong tin
+202445919|Tang Ngoc Linh|Cong nghe Thong tin
+202495919|Mai Van Tai|He thong Thong tin
+202431295|Cao Minh Hieu|Ky thuat Phan mem
+202475920|Luong Gia Huy|Khoa hoc May tinh
+202415919|Quach Ngoc Diep|An toan Thong tin
+202481296|Ha Cong Thanh|Cong nghe Thong tin
+202454919|Diep Minh Triet|Kinh te Cong nghiep
+202421295|Trieu Bao Long|Ky thuat Dien tu
+202465919|Vi Duc Thinh|He thong Thong tin
+202411296|Ta Thu Thao|Ky thuat Phan mem
+202484921|Nong Gia Bao|An toan Thong tin
+202445920|Phan Hong Hanh|Khoa hoc May tinh
+202491296|Le Quang Thang|Ky thuat Phan mem
+202431296|Nguyen Ngoc Bich|He thong Thong tin
+202475921|Tran Tuan Nghia|Cong nghe Thong tin
+202415920|Pham Minh Thu|Kinh te Cong nghiep
+202481297|Vu Huu Phuoc|Quan tri Kinh doanh
+202451296|Hoang Phi Long|Ky thuat Dien tu
+202425920|Nguyen Thuy Duong|Ky thuat Dieu khien
+202461297|Phan Manh Cuong|Ky thuat Phan mem
+202414922|Dang Thi No|Cong nghe Thong tin
+202485920|Bui Xuan Hieu|Khoa hoc May tinh
+202441297|Do Ngoc Trinh|An toan Thong tin
+202491297|Ngo Thanh Tung|He thong Thong tin
+202435920|Trinh Van Quyet|Ky thuat Phan mem
+202471297|Ly Nha Ky|Kinh te Cong nghiep
+202411297|Duong Mich|Cong nghe Thong tin
+202484922|Dinh Tien Dat|He thong Thong tin
+202445921|Lam Tam Nhu|Ky thuat Phan mem
+202495920|Phung Thieu Phong|Khoa hoc May tinh
+202431297|Vo Hoang Yen|An toan Thong tin
+202475922|Tang Tang|Cong nghe Thong tin
+202415921|Mai Phuong Thuy|He thong Thong tin
+202481298|Cao Thai Son|Ky thuat Phan mem
+202454920|Luong Bang Quang|Khoa hoc May tinh
+202421296|Quach Tuan Du|An toan Thong tin
+202465920|Ha Anh Tuan|Cong nghe Thong tin
+202411298|Diep Lam Anh|Kinh te Cong nghiep
+202484923|Trieu Le Dinh|Ky thuat Dien tu
+202445922|Vi Van Quang|He thong Thong tin
+202491298|Ta Bien Cuong|Ky thuat Phan mem
+202431298|Nong Thuy Hang|An toan Thong tin
+202475923|Phan Manh Quynh|Khoa hoc May tinh
+202415922|Le Cat Trong Ly|Ky thuat Phan mem
+202481299|Tran Thanh|He thong Thong tin
+202451298|Pham Huong|Cong nghe Thong tin
+202425921|Vu Cat Tuong|Kinh te Cong nghiep
+202461299|Hoang Thuy Linh|Quan tri Kinh doanh
+202414923|Nguyen Khoa Toc Tien|Ky thuat Dien tu
+202485921|Phan Viet Block|Ky thuat Dieu khien
+202441299|Dang Thuy Trang|Ky thuat Phan mem
+202491299|Bui Anh Tuan|Cong nghe Thong tin
+202435921|Do My Linh|Khoa hoc May tinh
+202471299|Ngo Kien Huy|An toan Thong tin
+202411299|Trinh Thang Binh|He thong Thong tin
+202484924|Ly Hai|Ky thuat Phan mem
+202445923|Duong Trieu Vu|Kinh te Cong nghiep
+202495921|Dinh Ngoc Diep|Cong nghe Thong tin
+202431299|Lam Truong|He thong Thong tin
+202475924|Vo Ha Tram|Ky thuat Phan mem
+202415922|Tang Duy Tan|Khoa hoc May tinh
+202481300|Mai Tien Dung|An toan Thong tin
+202454921|Cao Thang|Cong nghe Thong tin
+202421297|Luong Bich Huu|He thong Thong tin
+202465921|Quach Ngoc Ngoan|Ky thuat Phan mem
+202411300|Ha Phuong|Khoa hoc May tinh
+202484925|Diep Bao Ngoc|An toan Thong tin
+202445924|Trieu Vinh|Cong nghe Thong tin
+202491299|Vi Oanh|Kinh te Cong nghiep
+202431299|Ta Quang Buu|Ky thuat Dien tu
+202475925|Nong Duc Thinh|He thong Thong tin
+202415923|Phan Dinh Tung|Ky thuat Phan mem
+202481301|Le Quyen|An toan Thong tin
+202451299|Tran Thu Ha|Khoa hoc May tinh
+202425922|Pham Quynh Anh|Ky thuat Phan mem
+202461301|Vu Duy Khanh|He thong Thong tin
+202414924|Hoang Thuy|Cong nghe Thong tin
+202485922|Nguyen Dinh Vu|Kinh te Cong nghiep
+202441301|Phan Ngoc Luan|Quan tri Kinh doanh
+202491301|Dang Khoi|Ky thuat Dien tu
+202435922|Bui Bich Phuong|Ky thuat Dieu khien
+202471301|Doan Trang|Ky thuat Phan mem
+202411301|Ngo Thanh Van|Cong nghe Thong tin
+202484926|Trinh Tu Trung|Khoa hoc May tinh
+202445925|Ly Thu Thao|An toan Thong tin
+202495922|Duong Cam Lynh|He thong Thong tin
+202431301|Dinh Yen Trang|Ky thuat Phan mem
+202475926|Lam Chi Khanh|Kinh te Cong nghiep
+202415924|Vo Hoang Nghia|Cong nghe Thong tin
+202481302|Tang Chi Vy|He thong Thong tin
+202454922|Mai Thu Huyen|Ky thuat Phan mem
+202421298|Cao Thuy Duong|Khoa hoc May tinh
+202465922|Luong Manh Hai|An toan Thong tin
+202411302|Quach An An|Cong nghe Thong tin
+202484927|Ha Hoai Thu|He thong Thong tin
+202445926|Diep Tuyen|Ky thuat Phan mem
+202491302|Trieu Tu Long|Khoa hoc May tinh
+202431302|Vi Minh Nguyet|An toan Thong tin
+202475927|Ta Thu Cuc|Cong nghe Thong tin
+202415925|Nong Hoang Duong|Kinh te Cong nghiep
+202481303|Phan Anh Khoa|Ky thuat Dien tu
+202451302|Le Hieu|He thong Thong tin
+202425923|Tran Nguyen Khanh|Ky thuat Phan mem
+202461302|Pham Quoc Huy|An toan Thong tin
+202414925|Vu Thu Phuong|Khoa hoc May tinh
+202485923|Hoang Bach|Ky thuat Phan mem
+202441302|Nguyen Phi Hung|He thong Thong tin
+202491302|Phan Hoang Nam|Cong nghe Thong tin
+202435923|Bui Tien Dung|Kinh te Cong nghiep
